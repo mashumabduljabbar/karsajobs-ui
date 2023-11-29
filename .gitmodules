@@ -1,0 +1,4 @@
+[submodule "karsajobs-ui"]
+	path = karsajobs-ui
+	url = https://github.com/mashumabduljabbar/a433-microservices
+	branch = karsajobs-ui
